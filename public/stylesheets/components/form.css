@@ -1,0 +1,45 @@
+/* line 1, ../../sass/components/form.scss */
+.form {
+  background: #FFFFFF;
+  position: absolute;
+}
+
+/* line 10, ../../sass/components/form.scss */
+label {
+  position: absolute;
+  top: 0px;
+}
+
+/* line 15, ../../sass/components/form.scss */
+.form input[type="text"],
+.form input[type="date"],
+.form input[type="datetime"],
+.form input[type="email"],
+.form input[type="number"],
+.form input[type="search"],
+.form input[type="time"],
+.form input[type="url"],
+.form input[type="password"],
+.form textarea,
+.form select {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid;
+  background: transparent;
+}
+
+/* line 38, ../../sass/components/form.scss */
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: red;
+}
+
+/* line 42, ../../sass/components/form.scss */
+input:-moz-placeholder, textarea:-moz-placeholder {
+  color: red;
+}
+
+/* line 45, ../../sass/components/form.scss */
+.form textarea {
+  resize: none;
+  overflow: hidden;
+}

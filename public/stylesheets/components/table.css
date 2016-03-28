@@ -1,0 +1,113 @@
+/* line 1, ../../sass/components/table.scss */
+.tab {
+  border-collapse: collapse;
+  width: 100%;
+}
+/* line 8, ../../sass/components/table.scss */
+.tab.wall1 td, .tab.wall1 th {
+  border: solid 1px;
+}
+/* line 12, ../../sass/components/table.scss */
+.tab.border1 {
+  border: solid 1px;
+}
+/* line 8, ../../sass/components/table.scss */
+.tab.wall2 td, .tab.wall2 th {
+  border: solid 2px;
+}
+/* line 12, ../../sass/components/table.scss */
+.tab.border2 {
+  border: solid 2px;
+}
+/* line 8, ../../sass/components/table.scss */
+.tab.wall3 td, .tab.wall3 th {
+  border: solid 3px;
+}
+/* line 12, ../../sass/components/table.scss */
+.tab.border3 {
+  border: solid 3px;
+}
+/* line 8, ../../sass/components/table.scss */
+.tab.wall4 td, .tab.wall4 th {
+  border: solid 4px;
+}
+/* line 12, ../../sass/components/table.scss */
+.tab.border4 {
+  border: solid 4px;
+}
+/* line 8, ../../sass/components/table.scss */
+.tab.wall5 td, .tab.wall5 th {
+  border: solid 5px;
+}
+/* line 12, ../../sass/components/table.scss */
+.tab.border5 {
+  border: solid 5px;
+}
+/* line 17, ../../sass/components/table.scss */
+.tab.right td, .tab.right th {
+  text-align: right;
+}
+/* line 22, ../../sass/components/table.scss */
+.tab.center td, .tab.center th {
+  text-align: center;
+}
+/* line 27, ../../sass/components/table.scss */
+.tab.left td, .tab.left th {
+  text-align: left;
+}
+/* line 32, ../../sass/components/table.scss */
+.tab.hover-l tr:hover:nth-child(n+2) {
+  opacity: 0.3;
+}
+/* line 37, ../../sass/components/table.scss */
+.tab.presentation {
+  width: 100%;
+  display: table;
+  border-collapse: collapse;
+  border: solid black 2px;
+}
+/* line 42, ../../sass/components/table.scss */
+.tab.presentation tr:hover:nth-child(n+2) {
+  opacity: 0.5;
+  -moz-opacity: 0.5;
+}
+/* line 46, ../../sass/components/table.scss */
+.tab.presentation td {
+  text-align: center;
+}
+/* line 52, ../../sass/components/table.scss */
+.tab tr.center td, .tab tr.center th {
+  text-align: center;
+}
+/* line 57, ../../sass/components/table.scss */
+.tab tr.left td, .tab tr.left th {
+  text-align: left;
+}
+/* line 62, ../../sass/components/table.scss */
+.tab tr.right td, .tab tr.right th {
+  text-align: right;
+}
+/* line 68, ../../sass/components/table.scss */
+.tab td.center {
+  text-align: center;
+}
+/* line 71, ../../sass/components/table.scss */
+.tab td.left {
+  text-align: left;
+}
+/* line 74, ../../sass/components/table.scss */
+.tab td.right {
+  text-align: right;
+}
+/* line 79, ../../sass/components/table.scss */
+.tab th.center {
+  text-align: center;
+}
+/* line 82, ../../sass/components/table.scss */
+.tab th.left {
+  text-align: left;
+}
+/* line 85, ../../sass/components/table.scss */
+.tab th.right {
+  text-align: right;
+}

@@ -1,0 +1,10 @@
+/* line 2, ../../sass/components/dropdown.scss */
+.dropdown ul {
+  list-style: none;
+  padding: 2px;
+  margin: 2px;
+}
+/* line 6, ../../sass/components/dropdown.scss */
+.dropdown ul li {
+  display: block;
+}

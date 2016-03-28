@@ -1,0 +1,15 @@
+/* line 1, ../../sass/components/sidenav.scss */
+.side-nav {
+  height: 100%;
+  /* 100% Full-height */
+  width: 0;
+  /* 0 width - change this with JavaScript */
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Stay on top */
+  padding-top: 120px;
+  /* Place content 60px from the top */
+  right: 10px, a;
+  right-display: block;
+}

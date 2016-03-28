@@ -1,0 +1,48 @@
+.form{
+    background: #FFFFFF;
+    position: absolute;
+   
+    //box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    //-moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    //-webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+}
+
+label {
+    position: absolute;
+    top: 0px;
+}
+
+.form input[type="text"],
+.form input[type="date"],
+.form input[type="datetime"],
+.form input[type="email"],
+.form input[type="number"],
+.form input[type="search"],
+.form input[type="time"],
+.form input[type="url"],
+.form input[type="password"],
+.form textarea,
+.form select {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid;
+    background: transparent;
+
+}
+
+.label-text {
+    
+}
+
+//chrome
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    color: red;
+}
+//firefox
+input:-moz-placeholder, textarea:-moz-placeholder {
+    color: red;
+}
+.form textarea{
+    resize:none;//Sera fait en js
+    overflow: hidden;
+}

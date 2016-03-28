@@ -1,0 +1,87 @@
+.row {
+	//margin-left: auto;
+	//margin-right: auto;
+	//margin-bottom: 1px;
+	margin: 0px; 
+	height: auto;
+	display: flex;
+	
+	&:after {
+	    content: "";
+	    display: table;
+	    clear: both;
+  	}
+  	
+	.col {
+		float: left;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		
+		&.presentation {
+			//border-style: solid;
+			//border-color: #FFF;
+			//border-width: 1px;
+			line-height: 45px;
+			font-size: 20px;
+			text-align: center;
+			margin: 2px 0;
+			align-items: stretch;
+			color: #FFF;
+			
+		}
+
+		&.habyl {
+			font-size: 20px;
+			text-align: center;
+			align-items: stretch;
+			margin-top: 50px;  
+			p {
+				text-align: justify; 
+				padding-left: 10px;
+				padding-right: 10px;    
+			}
+		}
+
+			@for $i from 1 through 12 {
+				$width : unquote((100 / ($number_column / $i)) + "%");
+				&.s#{$i}{
+					width: $width;
+					margin-left: 0;
+				}
+				
+				&.shift-s#{$i} {
+					margin-left: $width !important;
+				}
+			}
+
+		@media #{$medium_only} {
+
+			@for $i from 1 through 12 {
+				$width : unquote((100 / ($number_column / $i)) + "%");
+				&.m#{$i}{
+					width: $width;
+					margin-left: 0;
+				}
+
+				&.shift-m#{$i} {
+					margin-left: $width !important;
+				}
+			}
+		}
+
+		@media #{$large_and_up} {
+
+			@for $i from 1 through 12 {
+				$width : unquote((100 / ($number_column / $i)) + "%");
+				&.l#{$i}{
+					width: $width;
+					margin-left: 0;
+				}
+					&.shift-l#{$i} {
+					margin-left: $width !important;
+				}
+			}
+		} 
+	}
+}

@@ -1,0 +1,88 @@
+$palette: (
+  "red": #f44336,
+  //"user-red": put your hexadecimal code for your own color
+  "pink": #e91e63,
+  //"user-pink":,
+  "purple": #9c27b0,
+  //"user-purple":,
+  "deep-purple":  #673ab7,
+  //"user-deep-purple":,
+  "indigo":  #3f51b5,
+  //"user-indigo":,
+  "blue": #2196f3,
+  //"user-blue":,
+  "light-blue": #03a9f4,
+  //"user-light-blue":,
+  "cyan":  #00bcd4,
+  //"user-cyan":,
+  "green": #4caf50,
+  //"user-green":,
+  "light-green":  #8bc34a,
+  //"user-light-green",
+  "lime":  #cddc39,
+  //"user-lime":,
+  "teal": #009688,
+  //"user-teal":,
+  "yellow": #ffeb3b,
+  //"user-yellow":,
+  "amber": #ffc107,
+  //"user-amber":,
+  "orange": #ff9800,
+  //"user-orange":,
+  "deep-orange": #ff5722,
+  //"user-deep-orange":,
+  "brown": #795548,
+  //"user-grey":,
+  "grey":  #9e9e9e,
+  //"user-grey":,
+  "blue-grey":  #607d8b,
+  //"user-blue-grey":,
+  "black": #000000,
+  "white": #ffffff
+
+);
+
+@each $color-name, $color in $palette {
+  .#{$color-name} {
+    background-color: $color !important;
+    color: black !important;  
+  }
+
+  .#{$color-name}-text {
+    color: $color  !important;  
+  }
+
+  .#{$color-name}-border {  
+    border-color: $color !important;
+  }
+  @if $color-name != "black" and $color-name != "white" {
+    @for $i from 1 through 7 {
+
+      .#{$color-name}-lighter#{$i} {
+        background-color: tint($color, $i * 10)  !important;
+        color: black !important; 
+      }
+
+      .#{$color-name}-lighter#{$i}-text {
+        color: tint($color, $i * 10 ) !important; 
+      }
+
+      .#{$color-name}-lighter#{$i}-border {
+        border-color: tint($color, $i * 10) !important; 
+      }
+
+      .#{$color-name}-darker#{$i} {
+        background-color: shade($color, $i * 10) !important;
+        color: white !important; 
+      }
+
+      .#{$color-name}-darker#{$i}-text {
+        color: shade($color, $i * 10) !important; 
+      }
+
+      .#{$color-name}-darker#{$i}-border {
+        border-color: shade($color, $i * 10) !important; 
+      }
+    }
+  }
+}

@@ -1,0 +1,4591 @@
+/* line 46, ../../sass/components/color.scss */
+.red {
+  background-color: #f44336 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.red-text {
+  color: #f44336 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.red-border {
+  border-color: #f44336 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.red-lighter1 {
+  background-color: #f5564a !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.red-lighter1-text {
+  color: #f5564a !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.red-lighter1-border {
+  border-color: #f5564a !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.red-darker1 {
+  background-color: #dc3c31 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.red-darker1-text {
+  color: #dc3c31 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.red-darker1-border {
+  border-color: #dc3c31 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.red-lighter2 {
+  background-color: #f6695e !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.red-lighter2-text {
+  color: #f6695e !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.red-lighter2-border {
+  border-color: #f6695e !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.red-darker2 {
+  background-color: #c3362b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.red-darker2-text {
+  color: #c3362b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.red-darker2-border {
+  border-color: #c3362b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.red-lighter3 {
+  background-color: #f77b72 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.red-lighter3-text {
+  color: #f77b72 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.red-lighter3-border {
+  border-color: #f77b72 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.red-darker3 {
+  background-color: #ab2f26 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.red-darker3-text {
+  color: #ab2f26 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.red-darker3-border {
+  border-color: #ab2f26 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.red-lighter4 {
+  background-color: #f88e86 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.red-lighter4-text {
+  color: #f88e86 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.red-lighter4-border {
+  border-color: #f88e86 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.red-darker4 {
+  background-color: #922820 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.red-darker4-text {
+  color: #922820 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.red-darker4-border {
+  border-color: #922820 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.red-lighter5 {
+  background-color: #faa19b !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.red-lighter5-text {
+  color: #faa19b !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.red-lighter5-border {
+  border-color: #faa19b !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.red-darker5 {
+  background-color: #7a221b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.red-darker5-text {
+  color: #7a221b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.red-darker5-border {
+  border-color: #7a221b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.red-lighter6 {
+  background-color: #fbb4af !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.red-lighter6-text {
+  color: #fbb4af !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.red-lighter6-border {
+  border-color: #fbb4af !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.red-darker6 {
+  background-color: #621b16 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.red-darker6-text {
+  color: #621b16 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.red-darker6-border {
+  border-color: #621b16 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.red-lighter7 {
+  background-color: #fcc7c3 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.red-lighter7-text {
+  color: #fcc7c3 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.red-lighter7-border {
+  border-color: #fcc7c3 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.red-darker7 {
+  background-color: #491410 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.red-darker7-text {
+  color: #491410 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.red-darker7-border {
+  border-color: #491410 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.pink {
+  background-color: #e91e63 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.pink-text {
+  color: #e91e63 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.pink-border {
+  border-color: #e91e63 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.pink-lighter1 {
+  background-color: #eb3573 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.pink-lighter1-text {
+  color: #eb3573 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.pink-lighter1-border {
+  border-color: #eb3573 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.pink-darker1 {
+  background-color: #d21b59 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.pink-darker1-text {
+  color: #d21b59 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.pink-darker1-border {
+  border-color: #d21b59 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.pink-lighter2 {
+  background-color: #ed4b82 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.pink-lighter2-text {
+  color: #ed4b82 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.pink-lighter2-border {
+  border-color: #ed4b82 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.pink-darker2 {
+  background-color: #ba184f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.pink-darker2-text {
+  color: #ba184f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.pink-darker2-border {
+  border-color: #ba184f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.pink-lighter3 {
+  background-color: #f06292 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.pink-lighter3-text {
+  color: #f06292 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.pink-lighter3-border {
+  border-color: #f06292 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.pink-darker3 {
+  background-color: #a31545 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.pink-darker3-text {
+  color: #a31545 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.pink-darker3-border {
+  border-color: #a31545 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.pink-lighter4 {
+  background-color: #f278a1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.pink-lighter4-text {
+  color: #f278a1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.pink-lighter4-border {
+  border-color: #f278a1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.pink-darker4 {
+  background-color: #8c123b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.pink-darker4-text {
+  color: #8c123b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.pink-darker4-border {
+  border-color: #8c123b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.pink-lighter5 {
+  background-color: #f48fb1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.pink-lighter5-text {
+  color: #f48fb1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.pink-lighter5-border {
+  border-color: #f48fb1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.pink-darker5 {
+  background-color: #750f32 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.pink-darker5-text {
+  color: #750f32 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.pink-darker5-border {
+  border-color: #750f32 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.pink-lighter6 {
+  background-color: #f6a5c1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.pink-lighter6-text {
+  color: #f6a5c1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.pink-lighter6-border {
+  border-color: #f6a5c1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.pink-darker6 {
+  background-color: #5d0c28 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.pink-darker6-text {
+  color: #5d0c28 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.pink-darker6-border {
+  border-color: #5d0c28 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.pink-lighter7 {
+  background-color: #f8bcd0 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.pink-lighter7-text {
+  color: #f8bcd0 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.pink-lighter7-border {
+  border-color: #f8bcd0 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.pink-darker7 {
+  background-color: #46091e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.pink-darker7-text {
+  color: #46091e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.pink-darker7-border {
+  border-color: #46091e !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.purple {
+  background-color: #9c27b0 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.purple-text {
+  color: #9c27b0 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.purple-border {
+  border-color: #9c27b0 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.purple-lighter1 {
+  background-color: #a63db8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.purple-lighter1-text {
+  color: #a63db8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.purple-lighter1-border {
+  border-color: #a63db8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.purple-darker1 {
+  background-color: #8c239e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.purple-darker1-text {
+  color: #8c239e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.purple-darker1-border {
+  border-color: #8c239e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.purple-lighter2 {
+  background-color: #b052c0 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.purple-lighter2-text {
+  color: #b052c0 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.purple-lighter2-border {
+  border-color: #b052c0 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.purple-darker2 {
+  background-color: #7d1f8d !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.purple-darker2-text {
+  color: #7d1f8d !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.purple-darker2-border {
+  border-color: #7d1f8d !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.purple-lighter3 {
+  background-color: #ba68c8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.purple-lighter3-text {
+  color: #ba68c8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.purple-lighter3-border {
+  border-color: #ba68c8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.purple-darker3 {
+  background-color: #6d1b7b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.purple-darker3-text {
+  color: #6d1b7b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.purple-darker3-border {
+  border-color: #6d1b7b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.purple-lighter4 {
+  background-color: #c47dd0 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.purple-lighter4-text {
+  color: #c47dd0 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.purple-lighter4-border {
+  border-color: #c47dd0 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.purple-darker4 {
+  background-color: #5e176a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.purple-darker4-text {
+  color: #5e176a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.purple-darker4-border {
+  border-color: #5e176a !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.purple-lighter5 {
+  background-color: #ce93d8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.purple-lighter5-text {
+  color: #ce93d8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.purple-lighter5-border {
+  border-color: #ce93d8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.purple-darker5 {
+  background-color: #4e1458 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.purple-darker5-text {
+  color: #4e1458 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.purple-darker5-border {
+  border-color: #4e1458 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.purple-lighter6 {
+  background-color: #d7a9df !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.purple-lighter6-text {
+  color: #d7a9df !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.purple-lighter6-border {
+  border-color: #d7a9df !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.purple-darker6 {
+  background-color: #3e1046 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.purple-darker6-text {
+  color: #3e1046 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.purple-darker6-border {
+  border-color: #3e1046 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.purple-lighter7 {
+  background-color: #e1bee7 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.purple-lighter7-text {
+  color: #e1bee7 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.purple-lighter7-border {
+  border-color: #e1bee7 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.purple-darker7 {
+  background-color: #2f0c35 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.purple-darker7-text {
+  color: #2f0c35 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.purple-darker7-border {
+  border-color: #2f0c35 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.deep-purple {
+  background-color: #673ab7 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.deep-purple-text {
+  color: #673ab7 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.deep-purple-border {
+  border-color: #673ab7 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-purple-lighter1 {
+  background-color: #764ebe !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-purple-lighter1-text {
+  color: #764ebe !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-purple-lighter1-border {
+  border-color: #764ebe !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-purple-darker1 {
+  background-color: #5d34a5 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-purple-darker1-text {
+  color: #5d34a5 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-purple-darker1-border {
+  border-color: #5d34a5 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-purple-lighter2 {
+  background-color: #8561c5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-purple-lighter2-text {
+  color: #8561c5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-purple-lighter2-border {
+  border-color: #8561c5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-purple-darker2 {
+  background-color: #522e92 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-purple-darker2-text {
+  color: #522e92 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-purple-darker2-border {
+  border-color: #522e92 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-purple-lighter3 {
+  background-color: #9575cd !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-purple-lighter3-text {
+  color: #9575cd !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-purple-lighter3-border {
+  border-color: #9575cd !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-purple-darker3 {
+  background-color: #482980 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-purple-darker3-text {
+  color: #482980 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-purple-darker3-border {
+  border-color: #482980 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-purple-lighter4 {
+  background-color: #a489d4 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-purple-lighter4-text {
+  color: #a489d4 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-purple-lighter4-border {
+  border-color: #a489d4 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-purple-darker4 {
+  background-color: #3e236e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-purple-darker4-text {
+  color: #3e236e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-purple-darker4-border {
+  border-color: #3e236e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-purple-lighter5 {
+  background-color: #b39ddb !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-purple-lighter5-text {
+  color: #b39ddb !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-purple-lighter5-border {
+  border-color: #b39ddb !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-purple-darker5 {
+  background-color: #341d5c !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-purple-darker5-text {
+  color: #341d5c !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-purple-darker5-border {
+  border-color: #341d5c !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-purple-lighter6 {
+  background-color: #c2b0e2 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-purple-lighter6-text {
+  color: #c2b0e2 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-purple-lighter6-border {
+  border-color: #c2b0e2 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-purple-darker6 {
+  background-color: #291749 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-purple-darker6-text {
+  color: #291749 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-purple-darker6-border {
+  border-color: #291749 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-purple-lighter7 {
+  background-color: #d1c4e9 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-purple-lighter7-text {
+  color: #d1c4e9 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-purple-lighter7-border {
+  border-color: #d1c4e9 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-purple-darker7 {
+  background-color: #1f1137 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-purple-darker7-text {
+  color: #1f1137 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-purple-darker7-border {
+  border-color: #1f1137 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.indigo {
+  background-color: #3f51b5 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.indigo-text {
+  color: #3f51b5 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.indigo-border {
+  border-color: #3f51b5 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.indigo-lighter1 {
+  background-color: #5262bc !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.indigo-lighter1-text {
+  color: #5262bc !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.indigo-lighter1-border {
+  border-color: #5262bc !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.indigo-darker1 {
+  background-color: #3949a3 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.indigo-darker1-text {
+  color: #3949a3 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.indigo-darker1-border {
+  border-color: #3949a3 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.indigo-lighter2 {
+  background-color: #6574c4 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.indigo-lighter2-text {
+  color: #6574c4 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.indigo-lighter2-border {
+  border-color: #6574c4 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.indigo-darker2 {
+  background-color: #324191 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.indigo-darker2-text {
+  color: #324191 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.indigo-darker2-border {
+  border-color: #324191 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.indigo-lighter3 {
+  background-color: #7985cb !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.indigo-lighter3-text {
+  color: #7985cb !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.indigo-lighter3-border {
+  border-color: #7985cb !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.indigo-darker3 {
+  background-color: #2c397f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.indigo-darker3-text {
+  color: #2c397f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.indigo-darker3-border {
+  border-color: #2c397f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.indigo-lighter4 {
+  background-color: #8c97d3 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.indigo-lighter4-text {
+  color: #8c97d3 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.indigo-lighter4-border {
+  border-color: #8c97d3 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.indigo-darker4 {
+  background-color: #26316d !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.indigo-darker4-text {
+  color: #26316d !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.indigo-darker4-border {
+  border-color: #26316d !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.indigo-lighter5 {
+  background-color: #9fa8da !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.indigo-lighter5-text {
+  color: #9fa8da !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.indigo-lighter5-border {
+  border-color: #9fa8da !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.indigo-darker5 {
+  background-color: #20295b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.indigo-darker5-text {
+  color: #20295b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.indigo-darker5-border {
+  border-color: #20295b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.indigo-lighter6 {
+  background-color: #b2b9e1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.indigo-lighter6-text {
+  color: #b2b9e1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.indigo-lighter6-border {
+  border-color: #b2b9e1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.indigo-darker6 {
+  background-color: #192048 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.indigo-darker6-text {
+  color: #192048 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.indigo-darker6-border {
+  border-color: #192048 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.indigo-lighter7 {
+  background-color: #c5cbe9 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.indigo-lighter7-text {
+  color: #c5cbe9 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.indigo-lighter7-border {
+  border-color: #c5cbe9 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.indigo-darker7 {
+  background-color: #131836 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.indigo-darker7-text {
+  color: #131836 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.indigo-darker7-border {
+  border-color: #131836 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.blue {
+  background-color: #2196f3 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.blue-text {
+  color: #2196f3 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.blue-border {
+  border-color: #2196f3 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-lighter1 {
+  background-color: #37a1f4 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-lighter1-text {
+  color: #37a1f4 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-lighter1-border {
+  border-color: #37a1f4 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-darker1 {
+  background-color: #1e87db !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-darker1-text {
+  color: #1e87db !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-darker1-border {
+  border-color: #1e87db !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-lighter2 {
+  background-color: #4dabf5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-lighter2-text {
+  color: #4dabf5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-lighter2-border {
+  border-color: #4dabf5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-darker2 {
+  background-color: #1a78c2 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-darker2-text {
+  color: #1a78c2 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-darker2-border {
+  border-color: #1a78c2 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-lighter3 {
+  background-color: #64b6f7 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-lighter3-text {
+  color: #64b6f7 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-lighter3-border {
+  border-color: #64b6f7 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-darker3 {
+  background-color: #1769aa !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-darker3-text {
+  color: #1769aa !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-darker3-border {
+  border-color: #1769aa !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-lighter4 {
+  background-color: #7ac0f8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-lighter4-text {
+  color: #7ac0f8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-lighter4-border {
+  border-color: #7ac0f8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-darker4 {
+  background-color: #145a92 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-darker4-text {
+  color: #145a92 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-darker4-border {
+  border-color: #145a92 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-lighter5 {
+  background-color: #90cbf9 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-lighter5-text {
+  color: #90cbf9 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-lighter5-border {
+  border-color: #90cbf9 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-darker5 {
+  background-color: #114b7a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-darker5-text {
+  color: #114b7a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-darker5-border {
+  border-color: #114b7a !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-lighter6 {
+  background-color: #a6d5fa !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-lighter6-text {
+  color: #a6d5fa !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-lighter6-border {
+  border-color: #a6d5fa !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-darker6 {
+  background-color: #0d3c61 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-darker6-text {
+  color: #0d3c61 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-darker6-border {
+  border-color: #0d3c61 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-lighter7 {
+  background-color: #bce0fb !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-lighter7-text {
+  color: #bce0fb !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-lighter7-border {
+  border-color: #bce0fb !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-darker7 {
+  background-color: #0a2d49 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-darker7-text {
+  color: #0a2d49 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-darker7-border {
+  border-color: #0a2d49 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.light-blue {
+  background-color: #03a9f4 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.light-blue-text {
+  color: #03a9f4 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.light-blue-border {
+  border-color: #03a9f4 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-blue-lighter1 {
+  background-color: #1cb2f5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-blue-lighter1-text {
+  color: #1cb2f5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-blue-lighter1-border {
+  border-color: #1cb2f5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-blue-darker1 {
+  background-color: #0398dc !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-blue-darker1-text {
+  color: #0398dc !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-blue-darker1-border {
+  border-color: #0398dc !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-blue-lighter2 {
+  background-color: #35baf6 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-blue-lighter2-text {
+  color: #35baf6 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-blue-lighter2-border {
+  border-color: #35baf6 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-blue-darker2 {
+  background-color: #0287c3 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-blue-darker2-text {
+  color: #0287c3 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-blue-darker2-border {
+  border-color: #0287c3 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-blue-lighter3 {
+  background-color: #4fc3f7 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-blue-lighter3-text {
+  color: #4fc3f7 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-blue-lighter3-border {
+  border-color: #4fc3f7 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-blue-darker3 {
+  background-color: #0276ab !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-blue-darker3-text {
+  color: #0276ab !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-blue-darker3-border {
+  border-color: #0276ab !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-blue-lighter4 {
+  background-color: #68cbf8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-blue-lighter4-text {
+  color: #68cbf8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-blue-lighter4-border {
+  border-color: #68cbf8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-blue-darker4 {
+  background-color: #026592 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-blue-darker4-text {
+  color: #026592 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-blue-darker4-border {
+  border-color: #026592 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-blue-lighter5 {
+  background-color: #81d4fa !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-blue-lighter5-text {
+  color: #81d4fa !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-blue-lighter5-border {
+  border-color: #81d4fa !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-blue-darker5 {
+  background-color: #02557a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-blue-darker5-text {
+  color: #02557a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-blue-darker5-border {
+  border-color: #02557a !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-blue-lighter6 {
+  background-color: #9addfb !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-blue-lighter6-text {
+  color: #9addfb !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-blue-lighter6-border {
+  border-color: #9addfb !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-blue-darker6 {
+  background-color: #014462 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-blue-darker6-text {
+  color: #014462 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-blue-darker6-border {
+  border-color: #014462 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-blue-lighter7 {
+  background-color: #b3e5fc !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-blue-lighter7-text {
+  color: #b3e5fc !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-blue-lighter7-border {
+  border-color: #b3e5fc !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-blue-darker7 {
+  background-color: #013349 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-blue-darker7-text {
+  color: #013349 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-blue-darker7-border {
+  border-color: #013349 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.cyan {
+  background-color: #00bcd4 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.cyan-text {
+  color: #00bcd4 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.cyan-border {
+  border-color: #00bcd4 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.cyan-lighter1 {
+  background-color: #1ac3d8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.cyan-lighter1-text {
+  color: #1ac3d8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.cyan-lighter1-border {
+  border-color: #1ac3d8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.cyan-darker1 {
+  background-color: #00a9bf !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.cyan-darker1-text {
+  color: #00a9bf !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.cyan-darker1-border {
+  border-color: #00a9bf !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.cyan-lighter2 {
+  background-color: #33c9dd !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.cyan-lighter2-text {
+  color: #33c9dd !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.cyan-lighter2-border {
+  border-color: #33c9dd !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.cyan-darker2 {
+  background-color: #0096aa !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.cyan-darker2-text {
+  color: #0096aa !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.cyan-darker2-border {
+  border-color: #0096aa !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.cyan-lighter3 {
+  background-color: #4dd0e1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.cyan-lighter3-text {
+  color: #4dd0e1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.cyan-lighter3-border {
+  border-color: #4dd0e1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.cyan-darker3 {
+  background-color: #008494 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.cyan-darker3-text {
+  color: #008494 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.cyan-darker3-border {
+  border-color: #008494 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.cyan-lighter4 {
+  background-color: #66d7e5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.cyan-lighter4-text {
+  color: #66d7e5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.cyan-lighter4-border {
+  border-color: #66d7e5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.cyan-darker4 {
+  background-color: #00717f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.cyan-darker4-text {
+  color: #00717f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.cyan-darker4-border {
+  border-color: #00717f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.cyan-lighter5 {
+  background-color: #80deea !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.cyan-lighter5-text {
+  color: #80deea !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.cyan-lighter5-border {
+  border-color: #80deea !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.cyan-darker5 {
+  background-color: #005e6a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.cyan-darker5-text {
+  color: #005e6a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.cyan-darker5-border {
+  border-color: #005e6a !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.cyan-lighter6 {
+  background-color: #99e4ee !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.cyan-lighter6-text {
+  color: #99e4ee !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.cyan-lighter6-border {
+  border-color: #99e4ee !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.cyan-darker6 {
+  background-color: #004b55 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.cyan-darker6-text {
+  color: #004b55 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.cyan-darker6-border {
+  border-color: #004b55 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.cyan-lighter7 {
+  background-color: #b3ebf2 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.cyan-lighter7-text {
+  color: #b3ebf2 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.cyan-lighter7-border {
+  border-color: #b3ebf2 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.cyan-darker7 {
+  background-color: #003840 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.cyan-darker7-text {
+  color: #003840 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.cyan-darker7-border {
+  border-color: #003840 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.green {
+  background-color: #4caf50 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.green-text {
+  color: #4caf50 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.green-border {
+  border-color: #4caf50 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.green-lighter1 {
+  background-color: #5eb762 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.green-lighter1-text {
+  color: #5eb762 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.green-lighter1-border {
+  border-color: #5eb762 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.green-darker1 {
+  background-color: #449e48 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.green-darker1-text {
+  color: #449e48 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.green-darker1-border {
+  border-color: #449e48 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.green-lighter2 {
+  background-color: #70bf73 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.green-lighter2-text {
+  color: #70bf73 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.green-lighter2-border {
+  border-color: #70bf73 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.green-darker2 {
+  background-color: #3d8c40 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.green-darker2-text {
+  color: #3d8c40 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.green-darker2-border {
+  border-color: #3d8c40 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.green-lighter3 {
+  background-color: #82c785 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.green-lighter3-text {
+  color: #82c785 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.green-lighter3-border {
+  border-color: #82c785 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.green-darker3 {
+  background-color: #357b38 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.green-darker3-text {
+  color: #357b38 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.green-darker3-border {
+  border-color: #357b38 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.green-lighter4 {
+  background-color: #94cf96 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.green-lighter4-text {
+  color: #94cf96 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.green-lighter4-border {
+  border-color: #94cf96 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.green-darker4 {
+  background-color: #2e6930 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.green-darker4-text {
+  color: #2e6930 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.green-darker4-border {
+  border-color: #2e6930 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.green-lighter5 {
+  background-color: #a6d7a8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.green-lighter5-text {
+  color: #a6d7a8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.green-lighter5-border {
+  border-color: #a6d7a8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.green-darker5 {
+  background-color: #265828 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.green-darker5-text {
+  color: #265828 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.green-darker5-border {
+  border-color: #265828 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.green-lighter6 {
+  background-color: #b7dfb9 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.green-lighter6-text {
+  color: #b7dfb9 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.green-lighter6-border {
+  border-color: #b7dfb9 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.green-darker6 {
+  background-color: #1e4620 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.green-darker6-text {
+  color: #1e4620 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.green-darker6-border {
+  border-color: #1e4620 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.green-lighter7 {
+  background-color: #c9e7cb !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.green-lighter7-text {
+  color: #c9e7cb !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.green-lighter7-border {
+  border-color: #c9e7cb !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.green-darker7 {
+  background-color: #173518 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.green-darker7-text {
+  color: #173518 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.green-darker7-border {
+  border-color: #173518 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.light-green {
+  background-color: #8bc34a !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.light-green-text {
+  color: #8bc34a !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.light-green-border {
+  border-color: #8bc34a !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-green-lighter1 {
+  background-color: #97c95c !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-green-lighter1-text {
+  color: #97c95c !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-green-lighter1-border {
+  border-color: #97c95c !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-green-darker1 {
+  background-color: #7db043 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-green-darker1-text {
+  color: #7db043 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-green-darker1-border {
+  border-color: #7db043 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-green-lighter2 {
+  background-color: #a2cf6e !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-green-lighter2-text {
+  color: #a2cf6e !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-green-lighter2-border {
+  border-color: #a2cf6e !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-green-darker2 {
+  background-color: #6f9c3b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-green-darker2-text {
+  color: #6f9c3b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-green-darker2-border {
+  border-color: #6f9c3b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-green-lighter3 {
+  background-color: #aed580 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-green-lighter3-text {
+  color: #aed580 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-green-lighter3-border {
+  border-color: #aed580 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-green-darker3 {
+  background-color: #618934 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-green-darker3-text {
+  color: #618934 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-green-darker3-border {
+  border-color: #618934 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-green-lighter4 {
+  background-color: #b9db92 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-green-lighter4-text {
+  color: #b9db92 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-green-lighter4-border {
+  border-color: #b9db92 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-green-darker4 {
+  background-color: #53752c !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-green-darker4-text {
+  color: #53752c !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-green-darker4-border {
+  border-color: #53752c !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-green-lighter5 {
+  background-color: #c5e1a5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-green-lighter5-text {
+  color: #c5e1a5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-green-lighter5-border {
+  border-color: #c5e1a5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-green-darker5 {
+  background-color: #466225 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-green-darker5-text {
+  color: #466225 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-green-darker5-border {
+  border-color: #466225 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-green-lighter6 {
+  background-color: #d1e7b7 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-green-lighter6-text {
+  color: #d1e7b7 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-green-lighter6-border {
+  border-color: #d1e7b7 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-green-darker6 {
+  background-color: #384e1e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-green-darker6-text {
+  color: #384e1e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-green-darker6-border {
+  border-color: #384e1e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.light-green-lighter7 {
+  background-color: #dcedc9 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.light-green-lighter7-text {
+  color: #dcedc9 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.light-green-lighter7-border {
+  border-color: #dcedc9 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.light-green-darker7 {
+  background-color: #2a3b16 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.light-green-darker7-text {
+  color: #2a3b16 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.light-green-darker7-border {
+  border-color: #2a3b16 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.lime {
+  background-color: #cddc39 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.lime-text {
+  color: #cddc39 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.lime-border {
+  border-color: #cddc39 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.lime-lighter1 {
+  background-color: #d2e04d !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.lime-lighter1-text {
+  color: #d2e04d !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.lime-lighter1-border {
+  border-color: #d2e04d !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.lime-darker1 {
+  background-color: #b9c633 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.lime-darker1-text {
+  color: #b9c633 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.lime-darker1-border {
+  border-color: #b9c633 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.lime-lighter2 {
+  background-color: #d7e361 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.lime-lighter2-text {
+  color: #d7e361 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.lime-lighter2-border {
+  border-color: #d7e361 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.lime-darker2 {
+  background-color: #a4b02e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.lime-darker2-text {
+  color: #a4b02e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.lime-darker2-border {
+  border-color: #a4b02e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.lime-lighter3 {
+  background-color: #dce774 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.lime-lighter3-text {
+  color: #dce774 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.lime-lighter3-border {
+  border-color: #dce774 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.lime-darker3 {
+  background-color: #909a28 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.lime-darker3-text {
+  color: #909a28 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.lime-darker3-border {
+  border-color: #909a28 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.lime-lighter4 {
+  background-color: #e1ea88 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.lime-lighter4-text {
+  color: #e1ea88 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.lime-lighter4-border {
+  border-color: #e1ea88 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.lime-darker4 {
+  background-color: #7b8422 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.lime-darker4-text {
+  color: #7b8422 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.lime-darker4-border {
+  border-color: #7b8422 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.lime-lighter5 {
+  background-color: #e6ee9c !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.lime-lighter5-text {
+  color: #e6ee9c !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.lime-lighter5-border {
+  border-color: #e6ee9c !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.lime-darker5 {
+  background-color: #676e1d !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.lime-darker5-text {
+  color: #676e1d !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.lime-darker5-border {
+  border-color: #676e1d !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.lime-lighter6 {
+  background-color: #ebf1b0 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.lime-lighter6-text {
+  color: #ebf1b0 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.lime-lighter6-border {
+  border-color: #ebf1b0 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.lime-darker6 {
+  background-color: #525817 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.lime-darker6-text {
+  color: #525817 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.lime-darker6-border {
+  border-color: #525817 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.lime-lighter7 {
+  background-color: #f0f5c4 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.lime-lighter7-text {
+  color: #f0f5c4 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.lime-lighter7-border {
+  border-color: #f0f5c4 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.lime-darker7 {
+  background-color: #3e4211 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.lime-darker7-text {
+  color: #3e4211 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.lime-darker7-border {
+  border-color: #3e4211 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.teal {
+  background-color: #009688 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.teal-text {
+  color: #009688 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.teal-border {
+  border-color: #009688 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.teal-lighter1 {
+  background-color: #1aa194 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.teal-lighter1-text {
+  color: #1aa194 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.teal-lighter1-border {
+  border-color: #1aa194 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.teal-darker1 {
+  background-color: #00877a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.teal-darker1-text {
+  color: #00877a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.teal-darker1-border {
+  border-color: #00877a !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.teal-lighter2 {
+  background-color: #33aba0 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.teal-lighter2-text {
+  color: #33aba0 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.teal-lighter2-border {
+  border-color: #33aba0 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.teal-darker2 {
+  background-color: #00786d !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.teal-darker2-text {
+  color: #00786d !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.teal-darker2-border {
+  border-color: #00786d !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.teal-lighter3 {
+  background-color: #4db6ac !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.teal-lighter3-text {
+  color: #4db6ac !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.teal-lighter3-border {
+  border-color: #4db6ac !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.teal-darker3 {
+  background-color: #00695f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.teal-darker3-text {
+  color: #00695f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.teal-darker3-border {
+  border-color: #00695f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.teal-lighter4 {
+  background-color: #66c0b8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.teal-lighter4-text {
+  color: #66c0b8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.teal-lighter4-border {
+  border-color: #66c0b8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.teal-darker4 {
+  background-color: #005a52 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.teal-darker4-text {
+  color: #005a52 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.teal-darker4-border {
+  border-color: #005a52 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.teal-lighter5 {
+  background-color: #80cbc4 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.teal-lighter5-text {
+  color: #80cbc4 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.teal-lighter5-border {
+  border-color: #80cbc4 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.teal-darker5 {
+  background-color: #004b44 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.teal-darker5-text {
+  color: #004b44 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.teal-darker5-border {
+  border-color: #004b44 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.teal-lighter6 {
+  background-color: #99d5cf !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.teal-lighter6-text {
+  color: #99d5cf !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.teal-lighter6-border {
+  border-color: #99d5cf !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.teal-darker6 {
+  background-color: #003c36 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.teal-darker6-text {
+  color: #003c36 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.teal-darker6-border {
+  border-color: #003c36 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.teal-lighter7 {
+  background-color: #b3e0db !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.teal-lighter7-text {
+  color: #b3e0db !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.teal-lighter7-border {
+  border-color: #b3e0db !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.teal-darker7 {
+  background-color: #002d29 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.teal-darker7-text {
+  color: #002d29 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.teal-darker7-border {
+  border-color: #002d29 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.yellow {
+  background-color: #ffeb3b !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.yellow-text {
+  color: #ffeb3b !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.yellow-border {
+  border-color: #ffeb3b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.yellow-lighter1 {
+  background-color: #ffed4f !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.yellow-lighter1-text {
+  color: #ffed4f !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.yellow-lighter1-border {
+  border-color: #ffed4f !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.yellow-darker1 {
+  background-color: #e6d435 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.yellow-darker1-text {
+  color: #e6d435 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.yellow-darker1-border {
+  border-color: #e6d435 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.yellow-lighter2 {
+  background-color: #ffef62 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.yellow-lighter2-text {
+  color: #ffef62 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.yellow-lighter2-border {
+  border-color: #ffef62 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.yellow-darker2 {
+  background-color: #ccbc2f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.yellow-darker2-text {
+  color: #ccbc2f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.yellow-darker2-border {
+  border-color: #ccbc2f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.yellow-lighter3 {
+  background-color: #fff176 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.yellow-lighter3-text {
+  color: #fff176 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.yellow-lighter3-border {
+  border-color: #fff176 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.yellow-darker3 {
+  background-color: #b3a529 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.yellow-darker3-text {
+  color: #b3a529 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.yellow-darker3-border {
+  border-color: #b3a529 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.yellow-lighter4 {
+  background-color: #fff389 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.yellow-lighter4-text {
+  color: #fff389 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.yellow-lighter4-border {
+  border-color: #fff389 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.yellow-darker4 {
+  background-color: #998d23 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.yellow-darker4-text {
+  color: #998d23 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.yellow-darker4-border {
+  border-color: #998d23 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.yellow-lighter5 {
+  background-color: #fff59d !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.yellow-lighter5-text {
+  color: #fff59d !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.yellow-lighter5-border {
+  border-color: #fff59d !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.yellow-darker5 {
+  background-color: #80761e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.yellow-darker5-text {
+  color: #80761e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.yellow-darker5-border {
+  border-color: #80761e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.yellow-lighter6 {
+  background-color: #fff7b1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.yellow-lighter6-text {
+  color: #fff7b1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.yellow-lighter6-border {
+  border-color: #fff7b1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.yellow-darker6 {
+  background-color: #665e18 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.yellow-darker6-text {
+  color: #665e18 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.yellow-darker6-border {
+  border-color: #665e18 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.yellow-lighter7 {
+  background-color: #fff9c4 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.yellow-lighter7-text {
+  color: #fff9c4 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.yellow-lighter7-border {
+  border-color: #fff9c4 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.yellow-darker7 {
+  background-color: #4d4712 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.yellow-darker7-text {
+  color: #4d4712 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.yellow-darker7-border {
+  border-color: #4d4712 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.amber {
+  background-color: #ffc107 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.amber-text {
+  color: #ffc107 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.amber-border {
+  border-color: #ffc107 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.amber-lighter1 {
+  background-color: #ffc720 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.amber-lighter1-text {
+  color: #ffc720 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.amber-lighter1-border {
+  border-color: #ffc720 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.amber-darker1 {
+  background-color: #e6ae06 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.amber-darker1-text {
+  color: #e6ae06 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.amber-darker1-border {
+  border-color: #e6ae06 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.amber-lighter2 {
+  background-color: #ffcd39 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.amber-lighter2-text {
+  color: #ffcd39 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.amber-lighter2-border {
+  border-color: #ffcd39 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.amber-darker2 {
+  background-color: #cc9a06 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.amber-darker2-text {
+  color: #cc9a06 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.amber-darker2-border {
+  border-color: #cc9a06 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.amber-lighter3 {
+  background-color: #ffd451 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.amber-lighter3-text {
+  color: #ffd451 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.amber-lighter3-border {
+  border-color: #ffd451 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.amber-darker3 {
+  background-color: #b38705 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.amber-darker3-text {
+  color: #b38705 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.amber-darker3-border {
+  border-color: #b38705 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.amber-lighter4 {
+  background-color: #ffda6a !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.amber-lighter4-text {
+  color: #ffda6a !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.amber-lighter4-border {
+  border-color: #ffda6a !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.amber-darker4 {
+  background-color: #997404 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.amber-darker4-text {
+  color: #997404 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.amber-darker4-border {
+  border-color: #997404 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.amber-lighter5 {
+  background-color: #ffe083 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.amber-lighter5-text {
+  color: #ffe083 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.amber-lighter5-border {
+  border-color: #ffe083 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.amber-darker5 {
+  background-color: #806104 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.amber-darker5-text {
+  color: #806104 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.amber-darker5-border {
+  border-color: #806104 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.amber-lighter6 {
+  background-color: #ffe69c !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.amber-lighter6-text {
+  color: #ffe69c !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.amber-lighter6-border {
+  border-color: #ffe69c !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.amber-darker6 {
+  background-color: #664d03 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.amber-darker6-text {
+  color: #664d03 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.amber-darker6-border {
+  border-color: #664d03 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.amber-lighter7 {
+  background-color: #ffecb5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.amber-lighter7-text {
+  color: #ffecb5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.amber-lighter7-border {
+  border-color: #ffecb5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.amber-darker7 {
+  background-color: #4d3a02 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.amber-darker7-text {
+  color: #4d3a02 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.amber-darker7-border {
+  border-color: #4d3a02 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.orange {
+  background-color: #ff9800 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.orange-text {
+  color: #ff9800 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.orange-border {
+  border-color: #ff9800 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.orange-lighter1 {
+  background-color: #ffa21a !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.orange-lighter1-text {
+  color: #ffa21a !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.orange-lighter1-border {
+  border-color: #ffa21a !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.orange-darker1 {
+  background-color: #e68900 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.orange-darker1-text {
+  color: #e68900 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.orange-darker1-border {
+  border-color: #e68900 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.orange-lighter2 {
+  background-color: #ffad33 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.orange-lighter2-text {
+  color: #ffad33 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.orange-lighter2-border {
+  border-color: #ffad33 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.orange-darker2 {
+  background-color: #cc7a00 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.orange-darker2-text {
+  color: #cc7a00 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.orange-darker2-border {
+  border-color: #cc7a00 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.orange-lighter3 {
+  background-color: #ffb74d !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.orange-lighter3-text {
+  color: #ffb74d !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.orange-lighter3-border {
+  border-color: #ffb74d !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.orange-darker3 {
+  background-color: #b36a00 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.orange-darker3-text {
+  color: #b36a00 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.orange-darker3-border {
+  border-color: #b36a00 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.orange-lighter4 {
+  background-color: #ffc166 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.orange-lighter4-text {
+  color: #ffc166 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.orange-lighter4-border {
+  border-color: #ffc166 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.orange-darker4 {
+  background-color: #995b00 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.orange-darker4-text {
+  color: #995b00 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.orange-darker4-border {
+  border-color: #995b00 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.orange-lighter5 {
+  background-color: #ffcc80 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.orange-lighter5-text {
+  color: #ffcc80 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.orange-lighter5-border {
+  border-color: #ffcc80 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.orange-darker5 {
+  background-color: #804c00 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.orange-darker5-text {
+  color: #804c00 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.orange-darker5-border {
+  border-color: #804c00 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.orange-lighter6 {
+  background-color: #ffd699 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.orange-lighter6-text {
+  color: #ffd699 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.orange-lighter6-border {
+  border-color: #ffd699 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.orange-darker6 {
+  background-color: #663d00 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.orange-darker6-text {
+  color: #663d00 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.orange-darker6-border {
+  border-color: #663d00 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.orange-lighter7 {
+  background-color: #ffe0b3 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.orange-lighter7-text {
+  color: #ffe0b3 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.orange-lighter7-border {
+  border-color: #ffe0b3 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.orange-darker7 {
+  background-color: #4d2e00 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.orange-darker7-text {
+  color: #4d2e00 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.orange-darker7-border {
+  border-color: #4d2e00 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.deep-orange {
+  background-color: #ff5722 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.deep-orange-text {
+  color: #ff5722 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.deep-orange-border {
+  border-color: #ff5722 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-orange-lighter1 {
+  background-color: #ff6838 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-orange-lighter1-text {
+  color: #ff6838 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-orange-lighter1-border {
+  border-color: #ff6838 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-orange-darker1 {
+  background-color: #e64e1f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-orange-darker1-text {
+  color: #e64e1f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-orange-darker1-border {
+  border-color: #e64e1f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-orange-lighter2 {
+  background-color: #ff794e !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-orange-lighter2-text {
+  color: #ff794e !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-orange-lighter2-border {
+  border-color: #ff794e !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-orange-darker2 {
+  background-color: #cc461b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-orange-darker2-text {
+  color: #cc461b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-orange-darker2-border {
+  border-color: #cc461b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-orange-lighter3 {
+  background-color: #ff8964 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-orange-lighter3-text {
+  color: #ff8964 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-orange-lighter3-border {
+  border-color: #ff8964 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-orange-darker3 {
+  background-color: #b33d18 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-orange-darker3-text {
+  color: #b33d18 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-orange-darker3-border {
+  border-color: #b33d18 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-orange-lighter4 {
+  background-color: #ff9a7a !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-orange-lighter4-text {
+  color: #ff9a7a !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-orange-lighter4-border {
+  border-color: #ff9a7a !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-orange-darker4 {
+  background-color: #993414 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-orange-darker4-text {
+  color: #993414 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-orange-darker4-border {
+  border-color: #993414 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-orange-lighter5 {
+  background-color: #ffab91 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-orange-lighter5-text {
+  color: #ffab91 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-orange-lighter5-border {
+  border-color: #ffab91 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-orange-darker5 {
+  background-color: #802c11 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-orange-darker5-text {
+  color: #802c11 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-orange-darker5-border {
+  border-color: #802c11 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-orange-lighter6 {
+  background-color: #ffbca7 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-orange-lighter6-text {
+  color: #ffbca7 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-orange-lighter6-border {
+  border-color: #ffbca7 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-orange-darker6 {
+  background-color: #66230e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-orange-darker6-text {
+  color: #66230e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-orange-darker6-border {
+  border-color: #66230e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.deep-orange-lighter7 {
+  background-color: #ffcdbd !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.deep-orange-lighter7-text {
+  color: #ffcdbd !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.deep-orange-lighter7-border {
+  border-color: #ffcdbd !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.deep-orange-darker7 {
+  background-color: #4d1a0a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.deep-orange-darker7-text {
+  color: #4d1a0a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.deep-orange-darker7-border {
+  border-color: #4d1a0a !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.brown {
+  background-color: #795548 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.brown-text {
+  color: #795548 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.brown-border {
+  border-color: #795548 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.brown-lighter1 {
+  background-color: #86665a !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.brown-lighter1-text {
+  color: #86665a !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.brown-lighter1-border {
+  border-color: #86665a !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.brown-darker1 {
+  background-color: #6d4d41 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.brown-darker1-text {
+  color: #6d4d41 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.brown-darker1-border {
+  border-color: #6d4d41 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.brown-lighter2 {
+  background-color: #94776d !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.brown-lighter2-text {
+  color: #94776d !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.brown-lighter2-border {
+  border-color: #94776d !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.brown-darker2 {
+  background-color: #61443a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.brown-darker2-text {
+  color: #61443a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.brown-darker2-border {
+  border-color: #61443a !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.brown-lighter3 {
+  background-color: #a1887f !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.brown-lighter3-text {
+  color: #a1887f !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.brown-lighter3-border {
+  border-color: #a1887f !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.brown-darker3 {
+  background-color: #553c32 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.brown-darker3-text {
+  color: #553c32 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.brown-darker3-border {
+  border-color: #553c32 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.brown-lighter4 {
+  background-color: #af9991 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.brown-lighter4-text {
+  color: #af9991 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.brown-lighter4-border {
+  border-color: #af9991 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.brown-darker4 {
+  background-color: #49332b !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.brown-darker4-text {
+  color: #49332b !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.brown-darker4-border {
+  border-color: #49332b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.brown-lighter5 {
+  background-color: #bcaaa4 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.brown-lighter5-text {
+  color: #bcaaa4 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.brown-lighter5-border {
+  border-color: #bcaaa4 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.brown-darker5 {
+  background-color: #3d2b24 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.brown-darker5-text {
+  color: #3d2b24 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.brown-darker5-border {
+  border-color: #3d2b24 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.brown-lighter6 {
+  background-color: #c9bbb6 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.brown-lighter6-text {
+  color: #c9bbb6 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.brown-lighter6-border {
+  border-color: #c9bbb6 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.brown-darker6 {
+  background-color: #30221d !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.brown-darker6-text {
+  color: #30221d !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.brown-darker6-border {
+  border-color: #30221d !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.brown-lighter7 {
+  background-color: #d7ccc8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.brown-lighter7-text {
+  color: #d7ccc8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.brown-lighter7-border {
+  border-color: #d7ccc8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.brown-darker7 {
+  background-color: #241a16 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.brown-darker7-text {
+  color: #241a16 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.brown-darker7-border {
+  border-color: #241a16 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.grey {
+  background-color: #9e9e9e !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.grey-text {
+  color: #9e9e9e !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.grey-border {
+  border-color: #9e9e9e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.grey-lighter1 {
+  background-color: #a8a8a8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.grey-lighter1-text {
+  color: #a8a8a8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.grey-lighter1-border {
+  border-color: #a8a8a8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.grey-darker1 {
+  background-color: #8e8e8e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.grey-darker1-text {
+  color: #8e8e8e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.grey-darker1-border {
+  border-color: #8e8e8e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.grey-lighter2 {
+  background-color: #b1b1b1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.grey-lighter2-text {
+  color: #b1b1b1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.grey-lighter2-border {
+  border-color: #b1b1b1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.grey-darker2 {
+  background-color: #7e7e7e !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.grey-darker2-text {
+  color: #7e7e7e !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.grey-darker2-border {
+  border-color: #7e7e7e !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.grey-lighter3 {
+  background-color: #bbbbbb !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.grey-lighter3-text {
+  color: #bbbbbb !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.grey-lighter3-border {
+  border-color: #bbbbbb !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.grey-darker3 {
+  background-color: #6f6f6f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.grey-darker3-text {
+  color: #6f6f6f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.grey-darker3-border {
+  border-color: #6f6f6f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.grey-lighter4 {
+  background-color: #c5c5c5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.grey-lighter4-text {
+  color: #c5c5c5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.grey-lighter4-border {
+  border-color: #c5c5c5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.grey-darker4 {
+  background-color: #5f5f5f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.grey-darker4-text {
+  color: #5f5f5f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.grey-darker4-border {
+  border-color: #5f5f5f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.grey-lighter5 {
+  background-color: #cfcfcf !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.grey-lighter5-text {
+  color: #cfcfcf !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.grey-lighter5-border {
+  border-color: #cfcfcf !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.grey-darker5 {
+  background-color: #4f4f4f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.grey-darker5-text {
+  color: #4f4f4f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.grey-darker5-border {
+  border-color: #4f4f4f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.grey-lighter6 {
+  background-color: #d8d8d8 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.grey-lighter6-text {
+  color: #d8d8d8 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.grey-lighter6-border {
+  border-color: #d8d8d8 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.grey-darker6 {
+  background-color: #3f3f3f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.grey-darker6-text {
+  color: #3f3f3f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.grey-darker6-border {
+  border-color: #3f3f3f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.grey-lighter7 {
+  background-color: #e2e2e2 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.grey-lighter7-text {
+  color: #e2e2e2 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.grey-lighter7-border {
+  border-color: #e2e2e2 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.grey-darker7 {
+  background-color: #2f2f2f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.grey-darker7-text {
+  color: #2f2f2f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.grey-darker7-border {
+  border-color: #2f2f2f !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.blue-grey {
+  background-color: #607d8b !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.blue-grey-text {
+  color: #607d8b !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.blue-grey-border {
+  border-color: #607d8b !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-grey-lighter1 {
+  background-color: #708a97 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-grey-lighter1-text {
+  color: #708a97 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-grey-lighter1-border {
+  border-color: #708a97 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-grey-darker1 {
+  background-color: #56717d !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-grey-darker1-text {
+  color: #56717d !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-grey-darker1-border {
+  border-color: #56717d !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-grey-lighter2 {
+  background-color: #8097a2 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-grey-lighter2-text {
+  color: #8097a2 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-grey-lighter2-border {
+  border-color: #8097a2 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-grey-darker2 {
+  background-color: #4d646f !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-grey-darker2-text {
+  color: #4d646f !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-grey-darker2-border {
+  border-color: #4d646f !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-grey-lighter3 {
+  background-color: #90a4ae !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-grey-lighter3-text {
+  color: #90a4ae !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-grey-lighter3-border {
+  border-color: #90a4ae !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-grey-darker3 {
+  background-color: #435861 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-grey-darker3-text {
+  color: #435861 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-grey-darker3-border {
+  border-color: #435861 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-grey-lighter4 {
+  background-color: #a0b1b9 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-grey-lighter4-text {
+  color: #a0b1b9 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-grey-lighter4-border {
+  border-color: #a0b1b9 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-grey-darker4 {
+  background-color: #3a4b53 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-grey-darker4-text {
+  color: #3a4b53 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-grey-darker4-border {
+  border-color: #3a4b53 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-grey-lighter5 {
+  background-color: #b0bec5 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-grey-lighter5-text {
+  color: #b0bec5 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-grey-lighter5-border {
+  border-color: #b0bec5 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-grey-darker5 {
+  background-color: #303f46 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-grey-darker5-text {
+  color: #303f46 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-grey-darker5-border {
+  border-color: #303f46 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-grey-lighter6 {
+  background-color: #bfcbd1 !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-grey-lighter6-text {
+  color: #bfcbd1 !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-grey-lighter6-border {
+  border-color: #bfcbd1 !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-grey-darker6 {
+  background-color: #263238 !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-grey-darker6-text {
+  color: #263238 !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-grey-darker6-border {
+  border-color: #263238 !important;
+}
+
+/* line 61, ../../sass/components/color.scss */
+.blue-grey-lighter7 {
+  background-color: #cfd8dc !important;
+  color: black !important;
+}
+
+/* line 66, ../../sass/components/color.scss */
+.blue-grey-lighter7-text {
+  color: #cfd8dc !important;
+}
+
+/* line 70, ../../sass/components/color.scss */
+.blue-grey-lighter7-border {
+  border-color: #cfd8dc !important;
+}
+
+/* line 74, ../../sass/components/color.scss */
+.blue-grey-darker7 {
+  background-color: #1d262a !important;
+  color: white !important;
+}
+
+/* line 79, ../../sass/components/color.scss */
+.blue-grey-darker7-text {
+  color: #1d262a !important;
+}
+
+/* line 83, ../../sass/components/color.scss */
+.blue-grey-darker7-border {
+  border-color: #1d262a !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.black {
+  background-color: #000000 !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.black-text {
+  color: #000000 !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.black-border {
+  border-color: #000000 !important;
+}
+
+/* line 46, ../../sass/components/color.scss */
+.white {
+  background-color: #ffffff !important;
+  color: black !important;
+}
+
+/* line 51, ../../sass/components/color.scss */
+.white-text {
+  color: #ffffff !important;
+}
+
+/* line 55, ../../sass/components/color.scss */
+.white-border {
+  border-color: #ffffff !important;
+}

@@ -1,0 +1,16 @@
+.dropdown {
+	ul{
+		list-style: none;
+		padding:2px;
+		margin:2px;
+		li {
+			display: block;
+
+		}
+
+		li:first-child {
+}
+		li:nth-child(n+1) {
+		}
+	}
+}

@@ -1,0 +1,56 @@
+.button {
+	position: relative;
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 1.5px;
+	overflow: hidden;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, .16),
+				0 3px 6px rgba(0, 0, 0, .23);
+	transition: box-shadow .3s;
+	user-select: none;
+	&.small {
+		padding: 5px 10px;
+		font-size: 15px;
+	}
+
+	&.medium {
+		padding: 10px 20px;
+	}
+
+	&.large {
+		padding: 15px 40px;
+		font-size: 30px;
+	}
+}
+
+.button:hover {
+	box-shadow: 0 10px 20px rgba(0, 0, 0, .19),
+				0 6px 6px rgba(0, 0, 0, .23);
+}
+
+.ripple{
+	position: absolute;
+	opacity: 0;
+	border-radius: 50%;
+	width: 1px;
+	height: 1px;
+	background-color: rgba(255, 255, 255, .35);
+	animation-duration: 1s;
+	animation-name: ripple;
+
+}
+
+
+
+@keyframes ripple {
+	0%{
+		opacity: 1;
+	}
+	100%{
+		transform: scale(700);
+	}
+}
+

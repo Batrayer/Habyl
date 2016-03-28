@@ -1,0 +1,13 @@
+//Media Query
+$small_screen: 768px !default;
+$medium_screen: 1280px !default;
+$large_screen: 1600px !default;
+
+$medium_and_up: "screen and (min-width : #{$small_screen+1})" !default;
+$large_and_up: "screen and (min-width : #{$medium_screen+1})" !default;
+$small_and_down: "screen and (max-width : #{$small_screen})" !default;
+$medium_and_down: "screen and (max-width : #{$medium_screen+1})" !default;
+$medium_only: "screen and (min-width : #{$small_screen+1}) and (max-width : #{$medium_screen})" !default;
+
+//Grid
+$number_column: 12 !default;

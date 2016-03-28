@@ -1,0 +1,17 @@
+/* line 1, ../../sass/components/slideshow.scss */
+.slideshow {
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* line 6, ../../sass/components/slideshow.scss */
+.slideshow ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* line 11, ../../sass/components/slideshow.scss */
+.slideshow li {
+  line-height: 0;
+}
